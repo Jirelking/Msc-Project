@@ -3,12 +3,12 @@ import matplotlib.pyplot as plt
 import mplcursors  # Import mplcursors for interactive annotations
 
 # Parameters
-E = 210e3  # Young's modulus (MPa)
-nu = 0.3   # Poisson's ratio
-sigma_y = 250  # Initial yield stress (MPa)
-H_iso = 1000   # Isotropic hardening modulus (MPa)
-H_kin = 50000    # Kinematic hardening modulus (MPa)
-mix_ratio = 1  # Mixing ratio (0 for pure isotropic, 1 for pure kinematic)
+E = 110e3  # Young's modulus (MPa)
+nu = 0.34   # Poisson's ratio
+sigma_y = 70  # Initial yield stress (MPa)
+H_iso = 400   # Isotropic hardening modulus (MPa)
+H_kin = 15000    # Kinematic hardening modulus (MPa)
+mix_ratio = 0.6  # Mixing ratio (0 for pure isotropic, 1 for pure kinematic)
 epsilon_total = np.array([0.01, 0.005, 0.003, 0, 0, 0])  # Total strain increment [exx; eyy; ezz; gxy; gyz; gxz]
 
 # Material constants
@@ -31,7 +31,7 @@ epsilon_p = np.zeros(6)  # Plastic strain
 sigma = np.zeros(6)  # Stress [sxx; syy; szz; txy; tyz; txz]
 alpha = np.zeros(6)  # Back stress for kinematic hardening
 sigma_iso = 0  # Isotropic hardening contribution
-n_steps = 100  # Number of steps
+n_steps = 10000  # Number of steps
 delta_epsilon = epsilon_total / n_steps  # Strain increment per step
 
 # Storage for results

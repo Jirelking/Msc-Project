@@ -15,7 +15,7 @@ ctk.set_appearance_mode("light")  # Options: "dark", "light", "system"
 ctk.set_default_color_theme("blue")
 
 def run_simulation(E, nu, sigma_y, H_iso, H_kin, mix_ratio):
-    n_steps = 100
+    n_steps = 10000
     epsilon_total = np.array([0.01, 0.005, 0.003, 0, 0, 0])
     delta_epsilon = epsilon_total / n_steps
 
@@ -274,7 +274,7 @@ btn_help.pack(side="left", padx=5, pady=5)
 # Theme Toggle Button - Placed in Status Bar
 btn_theme = ctk.CTkButton(
     status_bar, text="Toggle Theme", command=toggle_theme,
-    fg_color="#64748B", hover_color="#334155", text_color="white", width=120
+    fg_color="#F9A603", hover_color="#1D4ED8", text_color="white", width=120
 )
 btn_theme.pack(side="right", padx=5, pady=5)
 
@@ -288,22 +288,22 @@ title_label.pack(pady=(10, 20))
 
 # Create input fields inside the width limiter
 entry_E = create_input_field(input_width_limiter, "Young's Modulus (E in MPa):")
-entry_E.configure(border_width=1, height=30, fg_color="#F3F4F6", text_color="#111827")
+entry_E.configure(border_width=1, height=30, fg_color="#1D4ED8", text_color="#FFFFFF")
 
 entry_nu = create_input_field(input_width_limiter, "Poisson's Ratio (ν):")
-entry_nu.configure(border_width=1, height=30, fg_color="#F3F4F6", text_color="#111827")
+entry_nu.configure(border_width=1, height=30, fg_color="#1D4ED8", text_color="#FFFFFF")
 
 entry_sigma_y = create_input_field(input_width_limiter, "Von-Mises Yield Stress (σ_y in MPa):")
-entry_sigma_y.configure(border_width=1, height=30, fg_color="#F3F4F6", text_color="#111827")
+entry_sigma_y.configure(border_width=1, height=30, fg_color="#1D4ED8", text_color="#FFFFFF")
 
 entry_H_iso = create_input_field(input_width_limiter, "Isotropic Hardening Modulus (H_iso):")
-entry_H_iso.configure(border_width=1, height=30, fg_color="#F3F4F6", text_color="#111827")
+entry_H_iso.configure(border_width=1, height=30, fg_color="#1D4ED8", text_color="#FFFFFF")
 
 entry_H_kin = create_input_field(input_width_limiter, "Kinematic Hardening Modulus (H_kin):")
-entry_H_kin.configure(border_width=1, height=30, fg_color="#F3F4F6", text_color="#111827")
+entry_H_kin.configure(border_width=1, height=30, fg_color="#1D4ED8", text_color="#FFFFFF")
 
 entry_mix_ratio = create_input_field(input_width_limiter, "Mixing Ratio:")
-entry_mix_ratio.configure(border_width=1, height=30, fg_color="#F3F4F6", text_color="#111827")
+entry_mix_ratio.configure(border_width=1, height=30, fg_color="#1D4ED8", text_color="#FFFFFF")
 
 # Button Container with controlled width
 button_container = ctk.CTkFrame(input_width_limiter, fg_color="transparent")
@@ -357,10 +357,10 @@ btn_theme.pack(side="left", padx=10)
 
 # Help Section
 def open_documentation():
-    webbrowser.open("https://raw.githubusercontent.com/EmmanuelImpact/Final-Year-Project/main/User Documentation/User_Documentation.pdf")
+    webbrowser.open("https://raw.githubusercontent.com/Jirelking/Msc-Project/main/User_Documentation.pdf")
 
 def open_github():
-    webbrowser.open("https://github.com/EmmanuelImpact/Final-Year-Project")  # Replace with the actual GitHub link
+    webbrowser.open("https://github.com/Jirelking/Msc-Project")  # Replace with the actual GitHub link
 
 # Function to toggle theme and update text color
 def toggle_theme():
