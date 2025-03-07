@@ -317,8 +317,8 @@ btn_run = ctk.CTkButton(
     button_width_limiter,
     text="Run Simulation",
     command=on_run_simulation,
-    fg_color="#1D4ED8",
-    hover_color="#1E3A8A",
+    fg_color="#F9A603",
+    hover_color="#1D4ED8",
     font=("Arial", 14, "bold"),
     text_color="#FFFFFF",
     width=200  # Fixed width for buttons
@@ -389,7 +389,7 @@ help_label = ctk.CTkLabel(
     help_content,
     text="📖 Help & User Guide",
     font=("Segoe UI", 18, "bold"),
-    text_color="black"  # Default color for Light mode
+    text_color="#007BFF"  # Default color for Light mode
 )
 help_label.pack(pady=10)
 
@@ -414,9 +414,6 @@ github_link = ctk.CTkButton(
     hover_color="#0056b3"  # Darker blue on hover
 )
 github_link.pack(pady=(10, 20))  # Extra padding at the bottom
-
-# Ensure btn_theme is already defined in your GUI (DO NOT CREATE A NEW ONE)
-btn_theme.configure(command=toggle_theme)  # Assign toggle_theme function to your existing button
 
 # Ensure it expands properly in the window
 #help_content.pack(expand=True, padx=20, pady=20)
