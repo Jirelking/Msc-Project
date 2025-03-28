@@ -1,0 +1,1174 @@
+Step 1:
+  Total Strain: [1.e-04 5.e-05 3.e-05 0.e+00 0.e+00 0.e+00]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [37.96153846 29.88461538 26.65384615  0.          0.          0.        ]
+  Tresca Principal Stresses: Max = 6.46, Min = -4.85, |Max - Min| = 11.31
+  Maximum Shear Stress (τmax): 5.65
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 2:
+  Total Strain: [2.e-04 1.e-04 6.e-05 0.e+00 0.e+00 0.e+00]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [75.92307692 59.76923077 53.30769231  0.          0.          0.        ]
+  Tresca Principal Stresses: Max = 12.92, Min = -9.69, |Max - Min| = 22.62
+  Maximum Shear Stress (τmax): 11.31
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 3:
+  Total Strain: [3.0e-04 1.5e-04 9.0e-05 0.0e+00 0.0e+00 0.0e+00]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [113.88461538  89.65384615  79.96153846   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 19.38, Min = -14.54, |Max - Min| = 33.92
+  Maximum Shear Stress (τmax): 16.96
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 4:
+  Total Strain: [0.0004  0.0002  0.00012 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [151.84615385 119.53846154 106.61538462   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 25.85, Min = -19.38, |Max - Min| = 45.23
+  Maximum Shear Stress (τmax): 22.62
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 5:
+  Total Strain: [0.0005  0.00025 0.00015 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [189.80769231 149.42307692 133.26923077   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 32.31, Min = -24.23, |Max - Min| = 56.54
+  Maximum Shear Stress (τmax): 28.27
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 6:
+  Total Strain: [0.0006  0.0003  0.00018 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [227.76923077 179.30769231 159.92307692   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 38.77, Min = -29.08, |Max - Min| = 67.85
+  Maximum Shear Stress (τmax): 33.92
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 7:
+  Total Strain: [0.0007  0.00035 0.00021 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [265.73076923 209.19230769 186.57692308   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 45.23, Min = -33.92, |Max - Min| = 79.15
+  Maximum Shear Stress (τmax): 39.58
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 8:
+  Total Strain: [0.0008  0.0004  0.00024 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [303.69230769 239.07692308 213.23076923   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 51.69, Min = -38.77, |Max - Min| = 90.46
+  Maximum Shear Stress (τmax): 45.23
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 9:
+  Total Strain: [0.0009  0.00045 0.00027 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [341.65384615 268.96153846 239.88461538   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 58.15, Min = -43.62, |Max - Min| = 101.77
+  Maximum Shear Stress (τmax): 50.88
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 10:
+  Total Strain: [0.001  0.0005 0.0003 0.     0.     0.    ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [379.61538462 298.84615385 266.53846154   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 64.62, Min = -48.46, |Max - Min| = 113.08
+  Maximum Shear Stress (τmax): 56.54
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 11:
+  Total Strain: [0.0011  0.00055 0.00033 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [417.57692308 328.73076923 293.19230769   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 71.08, Min = -53.31, |Max - Min| = 124.38
+  Maximum Shear Stress (τmax): 62.19
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 12:
+  Total Strain: [0.0012  0.0006  0.00036 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [455.53846154 358.61538462 319.84615385   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 77.54, Min = -58.15, |Max - Min| = 135.69
+  Maximum Shear Stress (τmax): 67.85
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 13:
+  Total Strain: [0.0013  0.00065 0.00039 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [493.5 388.5 346.5   0.    0.    0. ]
+  Tresca Principal Stresses: Max = 84.00, Min = -63.00, |Max - Min| = 147.00
+  Maximum Shear Stress (τmax): 73.50
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 14:
+  Total Strain: [0.0014  0.0007  0.00042 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [531.46153846 418.38461538 373.15384615   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 90.46, Min = -67.85, |Max - Min| = 158.31
+  Maximum Shear Stress (τmax): 79.15
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 15:
+  Total Strain: [0.0015  0.00075 0.00045 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [569.42307692 448.26923077 399.80769231   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 96.92, Min = -72.69, |Max - Min| = 169.62
+  Maximum Shear Stress (τmax): 84.81
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 16:
+  Total Strain: [0.0016  0.0008  0.00048 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [607.38461538 478.15384615 426.46153846   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 103.38, Min = -77.54, |Max - Min| = 180.92
+  Maximum Shear Stress (τmax): 90.46
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 17:
+  Total Strain: [0.0017  0.00085 0.00051 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [645.34615385 508.03846154 453.11538462   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 109.85, Min = -82.38, |Max - Min| = 192.23
+  Maximum Shear Stress (τmax): 96.12
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 18:
+  Total Strain: [0.0018  0.0009  0.00054 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [683.30769231 537.92307692 479.76923077   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 116.31, Min = -87.23, |Max - Min| = 203.54
+  Maximum Shear Stress (τmax): 101.77
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 19:
+  Total Strain: [0.0019  0.00095 0.00057 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [721.26923077 567.80769231 506.42307692   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 122.77, Min = -92.08, |Max - Min| = 214.85
+  Maximum Shear Stress (τmax): 107.42
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 20:
+  Total Strain: [0.002  0.001  0.0006 0.     0.     0.    ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [759.23076923 597.69230769 533.07692308   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 129.23, Min = -96.92, |Max - Min| = 226.15
+  Maximum Shear Stress (τmax): 113.08
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 21:
+  Total Strain: [0.0021  0.00105 0.00063 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [797.19230769 627.57692308 559.73076923   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 135.69, Min = -101.77, |Max - Min| = 237.46
+  Maximum Shear Stress (τmax): 118.73
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 22:
+  Total Strain: [0.0022  0.0011  0.00066 0.      0.      0.     ]
+  Plastic Strain: [0. 0. 0. 0. 0. 0.]
+  Kinematic Backstress (Alpha): [0. 0. 0. 0. 0. 0.]
+  Stress Tensor: [835.15384615 657.46153846 586.38461538   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 142.15, Min = -106.62, |Max - Min| = 248.77
+  Maximum Shear Stress (τmax): 124.38
+  Allowable Stress: 125.00
+  Failure Status: Safe ✅
+--------------------------------------------------------------------------------
+Step 23:
+  Total Strain: [0.0023  0.00115 0.00069 0.      0.      0.     ]
+  Plastic Strain: [ 0.00110292 -0.00027573 -0.00082719  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 5.5145979  -1.37864948 -4.13594843  0.          0.          0.        ]
+  Stress Tensor: [873.1142817  687.34642958 613.03928873   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 148.61, Min = -111.46, |Max - Min| = 260.07
+  Maximum Shear Stress (τmax): 130.04
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 24:
+  Total Strain: [0.0024  0.0012  0.00072 0.      0.      0.     ]
+  Plastic Strain: [ 0.00344326 -0.00086081 -0.00258244  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 17.21627613  -4.30406903 -12.91220709   0.           0.
+   0.        ]
+  Stress Tensor: [911.07347982 717.23163004 639.69489013   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 155.07, Min = -116.31, |Max - Min| = 271.38
+  Maximum Shear Stress (τmax): 135.69
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 25:
+  Total Strain: [0.0025  0.00125 0.00075 0.      0.      0.     ]
+  Plastic Strain: [ 0.00702077 -0.00175519 -0.00526558  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 35.10384961  -8.7759624  -26.32788721   0.           0.
+   0.        ]
+  Stress Tensor: [949.03144077 747.11713981 666.35141942   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 161.53, Min = -121.15, |Max - Min| = 282.68
+  Maximum Shear Stress (τmax): 141.34
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 26:
+  Total Strain: [0.0026  0.0013  0.00078 0.      0.      0.     ]
+  Plastic Strain: [ 0.01183523 -0.00295881 -0.00887642  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 59.17613354 -14.79403338 -44.38210015   0.           0.
+   0.        ]
+  Stress Tensor: [986.98816477 777.00295881 693.00887642   0.           0.
+   0.        ]
+  Tresca Principal Stresses: Max = 167.99, Min = -125.99, |Max - Min| = 293.98
+  Maximum Shear Stress (τmax): 146.99
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 27:
+  Total Strain: [0.0027  0.00135 0.00081 0.      0.      0.     ]
+  Plastic Strain: [ 0.01788639 -0.0044716  -0.01341479  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 89.43194329 -22.35798582 -67.07395747   0.           0.
+   0.        ]
+  Stress Tensor: [1024.94365207  806.88908698  719.66726095    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 174.44, Min = -130.83, |Max - Min| = 305.28
+  Maximum Shear Stress (τmax): 152.64
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 28:
+  Total Strain: [0.0028  0.0014  0.00084 0.      0.      0.     ]
+  Plastic Strain: [ 0.02517402 -0.0062935  -0.01888051  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [125.8700945  -31.46752362 -94.40257087   0.           0.
+   0.        ]
+  Stress Tensor: [1062.8979029   836.77552427  746.32657282    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 180.90, Min = -135.67, |Max - Min| = 316.57
+  Maximum Shear Stress (τmax): 158.29
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 29:
+  Total Strain: [0.0029  0.00145 0.00087 0.      0.      0.     ]
+  Plastic Strain: [ 0.03301866 -0.00825467 -0.024764    0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 165.09332152  -41.27333038 -123.81999114    0.            0.
+    0.        ]
+  Stress Tensor: [1100.85159672  866.66210082  772.98630246    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 187.35, Min = -140.51, |Max - Min| = 327.87
+  Maximum Shear Stress (τmax): 163.93
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 30:
+  Total Strain: [0.003  0.0015 0.0009 0.     0.     0.    ]
+  Plastic Strain: [ 0.04086331 -0.01021583 -0.03064748  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 204.31654855  -51.07913714 -153.23741141    0.            0.
+    0.        ]
+  Stress Tensor: [1138.80529054  896.54867737  799.6460321     0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 193.81, Min = -145.35, |Max - Min| = 339.16
+  Maximum Shear Stress (τmax): 169.58
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 31:
+  Total Strain: [0.0031  0.00155 0.00093 0.      0.      0.     ]
+  Plastic Strain: [ 0.04870796 -0.01217699 -0.03653097  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 243.53977558  -60.88494389 -182.65483168    0.            0.
+    0.        ]
+  Stress Tensor: [1176.75898435  926.43525391  826.30576174    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 200.26, Min = -150.19, |Max - Min| = 350.45
+  Maximum Shear Stress (τmax): 175.23
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 32:
+  Total Strain: [0.0032  0.0016  0.00096 0.      0.      0.     ]
+  Plastic Strain: [ 0.0565526  -0.01413815 -0.04241445  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 282.76300261  -70.69075065 -212.07225195    0.            0.
+    0.        ]
+  Stress Tensor: [1214.71267817  956.32183046  852.96549137    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 206.71, Min = -155.03, |Max - Min| = 361.75
+  Maximum Shear Stress (τmax): 180.87
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 33:
+  Total Strain: [0.0033  0.00165 0.00099 0.      0.      0.     ]
+  Plastic Strain: [ 0.06439725 -0.01609931 -0.04829793  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 321.98622963  -80.49655741 -241.48967223    0.            0.
+    0.        ]
+  Stress Tensor: [1252.66637198  986.208407    879.62522101    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 213.17, Min = -159.87, |Max - Min| = 373.04
+  Maximum Shear Stress (τmax): 186.52
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 34:
+  Total Strain: [0.0034  0.0017  0.00102 0.      0.      0.     ]
+  Plastic Strain: [ 0.07224189 -0.01806047 -0.05418142  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 361.20945666  -90.30236417 -270.9070925     0.            0.
+    0.        ]
+  Stress Tensor: [1290.6200658  1016.09498355  906.28495065    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 219.62, Min = -164.72, |Max - Min| = 384.34
+  Maximum Shear Stress (τmax): 192.17
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 35:
+  Total Strain: [0.0035  0.00175 0.00105 0.      0.      0.     ]
+  Plastic Strain: [ 0.08008654 -0.02002163 -0.0600649   0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 400.43268369 -100.10817092 -300.32451277    0.            0.
+    0.        ]
+  Stress Tensor: [1328.57375962 1045.9815601   932.94468029    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 226.07, Min = -169.56, |Max - Min| = 395.63
+  Maximum Shear Stress (τmax): 197.81
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 36:
+  Total Strain: [0.0036  0.0018  0.00108 0.      0.      0.     ]
+  Plastic Strain: [ 0.08793118 -0.0219828  -0.06594839  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 439.65591072 -109.91397768 -329.74193304    0.            0.
+    0.        ]
+  Stress Tensor: [1366.52745343 1075.86813664  959.60440993    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 232.53, Min = -174.40, |Max - Min| = 406.92
+  Maximum Shear Stress (τmax): 203.46
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 37:
+  Total Strain: [0.0037  0.00185 0.00111 0.      0.      0.     ]
+  Plastic Strain: [ 0.09577583 -0.02394396 -0.07183187  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 478.87913774 -119.71978444 -359.15935331    0.            0.
+    0.        ]
+  Stress Tensor: [1404.48114725 1105.75471319  986.26413956    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 238.98, Min = -179.24, |Max - Min| = 418.22
+  Maximum Shear Stress (τmax): 209.11
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 38:
+  Total Strain: [0.0038  0.0019  0.00114 0.      0.      0.     ]
+  Plastic Strain: [ 0.10362047 -0.02590512 -0.07771535  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 518.10236477 -129.52559119 -388.57677358    0.            0.
+    0.        ]
+  Stress Tensor: [1442.43484107 1135.64128973 1012.9238692     0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 245.43, Min = -184.08, |Max - Min| = 429.51
+  Maximum Shear Stress (τmax): 214.76
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 39:
+  Total Strain: [0.0039  0.00195 0.00117 0.      0.      0.     ]
+  Plastic Strain: [ 0.11146512 -0.02786628 -0.08359884  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 557.3255918  -139.33139795 -417.99419385    0.            0.
+    0.        ]
+  Stress Tensor: [1480.38853488 1165.52786628 1039.58359884    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 251.89, Min = -188.92, |Max - Min| = 440.80
+  Maximum Shear Stress (τmax): 220.40
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 40:
+  Total Strain: [0.004  0.002  0.0012 0.     0.     0.    ]
+  Plastic Strain: [ 0.11930976 -0.02982744 -0.08948232  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 596.54881883 -149.13720471 -447.41161412    0.            0.
+    0.        ]
+  Stress Tensor: [1518.3422287  1195.41444283 1066.24332848    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 258.34, Min = -193.76, |Max - Min| = 452.10
+  Maximum Shear Stress (τmax): 226.05
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 41:
+  Total Strain: [0.0041  0.00205 0.00123 0.      0.      0.     ]
+  Plastic Strain: [ 0.12715441 -0.0317886  -0.09536581  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 635.77204585 -158.94301146 -476.82903439    0.            0.
+    0.        ]
+  Stress Tensor: [1556.29592251 1225.30101937 1092.90305811    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 264.80, Min = -198.60, |Max - Min| = 463.39
+  Maximum Shear Stress (τmax): 231.70
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 42:
+  Total Strain: [0.0042  0.0021  0.00126 0.      0.      0.     ]
+  Plastic Strain: [ 0.13499905 -0.03374976 -0.10124929  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 674.99527288 -168.74881822 -506.24645466    0.            0.
+    0.        ]
+  Stress Tensor: [1594.24961633 1255.18759592 1119.56278775    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 271.25, Min = -203.44, |Max - Min| = 474.69
+  Maximum Shear Stress (τmax): 237.34
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 43:
+  Total Strain: [0.0043  0.00215 0.00129 0.      0.      0.     ]
+  Plastic Strain: [ 0.1428437  -0.03571092 -0.10713277  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 714.21849991 -178.55462498 -535.66387493    0.            0.
+    0.        ]
+  Stress Tensor: [1632.20331015 1285.07417246 1146.22251739    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 277.70, Min = -208.28, |Max - Min| = 485.98
+  Maximum Shear Stress (τmax): 242.99
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 44:
+  Total Strain: [0.0044  0.0022  0.00132 0.      0.      0.     ]
+  Plastic Strain: [ 0.15068835 -0.03767209 -0.11301626  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 753.44172694 -188.36043173 -565.0812952     0.            0.
+    0.        ]
+  Stress Tensor: [1670.15700396 1314.96074901 1172.88224703    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 284.16, Min = -213.12, |Max - Min| = 497.27
+  Maximum Shear Stress (τmax): 248.64
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 45:
+  Total Strain: [0.0045  0.00225 0.00135 0.      0.      0.     ]
+  Plastic Strain: [ 0.15853299 -0.03963325 -0.11889974  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 792.66495397 -198.16623849 -594.49871547    0.            0.
+    0.        ]
+  Stress Tensor: [1708.11069778 1344.84732556 1199.54197667    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 290.61, Min = -217.96, |Max - Min| = 508.57
+  Maximum Shear Stress (τmax): 254.28
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 46:
+  Total Strain: [0.0046  0.0023  0.00138 0.      0.      0.     ]
+  Plastic Strain: [ 0.16637764 -0.04159441 -0.12478323  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 831.88818099 -207.97204525 -623.91613574    0.            0.
+    0.        ]
+  Stress Tensor: [1746.06439159 1374.7339021  1226.2017063     0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 297.06, Min = -222.80, |Max - Min| = 519.86
+  Maximum Shear Stress (τmax): 259.93
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 47:
+  Total Strain: [0.0047  0.00235 0.00141 0.      0.      0.     ]
+  Plastic Strain: [ 0.17422228 -0.04355557 -0.13066671  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 871.11140802 -217.77785201 -653.33355602    0.            0.
+    0.        ]
+  Stress Tensor: [1784.01808541 1404.62047865 1252.86143594    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 303.52, Min = -227.64, |Max - Min| = 531.16
+  Maximum Shear Stress (τmax): 265.58
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 48:
+  Total Strain: [0.0048  0.0024  0.00144 0.      0.      0.     ]
+  Plastic Strain: [ 0.18206693 -0.04551673 -0.1365502   0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 910.33463505 -227.58365876 -682.75097629    0.            0.
+    0.        ]
+  Stress Tensor: [1821.97177923 1434.50705519 1279.52116558    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 309.97, Min = -232.48, |Max - Min| = 542.45
+  Maximum Shear Stress (τmax): 271.23
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 49:
+  Total Strain: [0.0049  0.00245 0.00147 0.      0.      0.     ]
+  Plastic Strain: [ 0.18991157 -0.04747789 -0.14243368  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 949.55786208 -237.38946552 -712.16839656    0.            0.
+    0.        ]
+  Stress Tensor: [1859.92547304 1464.39363174 1306.18089522    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 316.43, Min = -237.32, |Max - Min| = 553.74
+  Maximum Shear Stress (τmax): 276.87
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 50:
+  Total Strain: [0.005  0.0025 0.0015 0.     0.     0.    ]
+  Plastic Strain: [ 0.19775622 -0.04943905 -0.14831716  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 988.7810891  -247.19527228 -741.58581683    0.            0.
+    0.        ]
+  Stress Tensor: [1897.87916686 1494.28020829 1332.84062486    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 322.88, Min = -242.16, |Max - Min| = 565.04
+  Maximum Shear Stress (τmax): 282.52
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 51:
+  Total Strain: [0.0051  0.00255 0.00153 0.      0.      0.     ]
+  Plastic Strain: [ 0.20560086 -0.05140022 -0.15420065  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [1028.00431613 -257.00107903 -771.0032371     0.            0.
+    0.        ]
+  Stress Tensor: [1935.83286068 1524.16678483 1359.50035449    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 329.33, Min = -247.00, |Max - Min| = 576.33
+  Maximum Shear Stress (τmax): 288.17
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 52:
+  Total Strain: [0.0052  0.0026  0.00156 0.      0.      0.     ]
+  Plastic Strain: [ 0.21344551 -0.05336138 -0.16008413  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [1067.22754316 -266.80688579 -800.42065737    0.            0.
+    0.        ]
+  Stress Tensor: [1973.78655449 1554.05336138 1386.16008413    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 335.79, Min = -251.84, |Max - Min| = 587.63
+  Maximum Shear Stress (τmax): 293.81
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 53:
+  Total Strain: [0.0053  0.00265 0.00159 0.      0.      0.     ]
+  Plastic Strain: [ 0.22129015 -0.05532254 -0.16596762  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [1106.45077019 -276.61269255 -829.83807764    0.            0.
+    0.        ]
+  Stress Tensor: [2011.74024831 1583.93993792 1412.81981377    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 342.24, Min = -256.68, |Max - Min| = 598.92
+  Maximum Shear Stress (τmax): 299.46
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 54:
+  Total Strain: [0.0054  0.0027  0.00162 0.      0.      0.     ]
+  Plastic Strain: [ 0.2291348 -0.0572837 -0.1718511  0.         0.         0.       ]
+  Kinematic Backstress (Alpha): [1145.67399721 -286.4184993  -859.25549791    0.            0.
+    0.        ]
+  Stress Tensor: [2049.69394212 1613.82651447 1439.47954341    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 348.69, Min = -261.52, |Max - Min| = 610.21
+  Maximum Shear Stress (τmax): 305.11
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 55:
+  Total Strain: [0.0055  0.00275 0.00165 0.      0.      0.     ]
+  Plastic Strain: [ 0.23697944 -0.05924486 -0.17773458  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [1184.89722424 -296.22430606 -888.67291818    0.            0.
+    0.        ]
+  Stress Tensor: [2087.64763594 1643.71309102 1466.13927305    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 355.15, Min = -266.36, |Max - Min| = 621.51
+  Maximum Shear Stress (τmax): 310.75
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 56:
+  Total Strain: [0.0056  0.0028  0.00168 0.      0.      0.     ]
+  Plastic Strain: [ 0.24482409 -0.06120602 -0.18361807  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [1224.12045127 -306.03011282 -918.09033845    0.            0.
+    0.        ]
+  Stress Tensor: [2125.60132976 1673.59966756 1492.79900268    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 361.60, Min = -271.20, |Max - Min| = 632.80
+  Maximum Shear Stress (τmax): 316.40
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 57:
+  Total Strain: [0.0057  0.00285 0.00171 0.      0.      0.     ]
+  Plastic Strain: [ 0.25266874 -0.06316718 -0.18950155  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [1263.3436783  -315.83591957 -947.50775872    0.            0.
+    0.        ]
+  Stress Tensor: [2163.55502357 1703.48624411 1519.45873232    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 368.06, Min = -276.04, |Max - Min| = 644.10
+  Maximum Shear Stress (τmax): 322.05
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 58:
+  Total Strain: [0.0058  0.0029  0.00174 0.      0.      0.     ]
+  Plastic Strain: [ 0.26051338 -0.06512835 -0.19538504  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [1302.56690532 -325.64172633 -976.92517899    0.            0.
+    0.        ]
+  Stress Tensor: [2201.50871739 1733.37282065 1546.11846196    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 374.51, Min = -280.88, |Max - Min| = 655.39
+  Maximum Shear Stress (τmax): 327.70
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 59:
+  Total Strain: [0.0059  0.00295 0.00177 0.      0.      0.     ]
+  Plastic Strain: [ 0.26835803 -0.06708951 -0.20126852  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1341.79013235  -335.44753309 -1006.34259926     0.
+     0.             0.        ]
+  Stress Tensor: [2239.4624112 1763.2593972 1572.7781916    0.           0.
+    0.       ]
+  Tresca Principal Stresses: Max = 380.96, Min = -285.72, |Max - Min| = 666.68
+  Maximum Shear Stress (τmax): 333.34
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 60:
+  Total Strain: [0.006  0.003  0.0018 0.     0.     0.    ]
+  Plastic Strain: [ 0.27620267 -0.06905067 -0.207152    0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1381.01335938  -345.25333984 -1035.76001953     0.
+     0.             0.        ]
+  Stress Tensor: [2277.41610502 1793.14597374 1599.43792123    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 387.42, Min = -290.56, |Max - Min| = 677.98
+  Maximum Shear Stress (τmax): 338.99
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 61:
+  Total Strain: [0.0061  0.00305 0.00183 0.      0.      0.     ]
+  Plastic Strain: [ 0.28404732 -0.07101183 -0.21303549  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1420.23658641  -355.0591466  -1065.17743981     0.
+     0.             0.        ]
+  Stress Tensor: [2315.36979884 1823.03255029 1626.09765087    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 393.87, Min = -295.40, |Max - Min| = 689.27
+  Maximum Shear Stress (τmax): 344.64
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 62:
+  Total Strain: [0.0062  0.0031  0.00186 0.      0.      0.     ]
+  Plastic Strain: [ 0.29189196 -0.07297299 -0.21891897  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1459.45981343  -364.86495336 -1094.59486008     0.
+     0.             0.        ]
+  Stress Tensor: [2353.32349265 1852.91912684 1652.75738051    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 400.32, Min = -300.24, |Max - Min| = 700.57
+  Maximum Shear Stress (τmax): 350.28
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 63:
+  Total Strain: [0.0063  0.00315 0.00189 0.      0.      0.     ]
+  Plastic Strain: [ 0.29973661 -0.07493415 -0.22480246  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1498.68304046  -374.67076012 -1124.01228035     0.
+     0.             0.        ]
+  Stress Tensor: [2391.27718647 1882.80570338 1679.41711015    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 406.78, Min = -305.08, |Max - Min| = 711.86
+  Maximum Shear Stress (τmax): 355.93
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 64:
+  Total Strain: [0.0064  0.0032  0.00192 0.      0.      0.     ]
+  Plastic Strain: [ 0.30758125 -0.07689531 -0.23068594  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1537.90626749  -384.47656687 -1153.42970062     0.
+     0.             0.        ]
+  Stress Tensor: [2429.23088028 1912.69227993 1706.07683979    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 413.23, Min = -309.92, |Max - Min| = 723.15
+  Maximum Shear Stress (τmax): 361.58
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 65:
+  Total Strain: [0.0065  0.00325 0.00195 0.      0.      0.     ]
+  Plastic Strain: [ 0.3154259  -0.07885647 -0.23656942  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1577.12949452  -394.28237363 -1182.84712089     0.
+     0.             0.        ]
+  Stress Tensor: [2467.1845741  1942.57885647 1732.73656942    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 419.68, Min = -314.76, |Max - Min| = 734.45
+  Maximum Shear Stress (τmax): 367.22
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 66:
+  Total Strain: [0.0066  0.0033  0.00198 0.      0.      0.     ]
+  Plastic Strain: [ 0.32327054 -0.08081764 -0.24245291  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1616.35272155  -404.08818039 -1212.26454116     0.
+     0.             0.        ]
+  Stress Tensor: [2505.13826792 1972.46543302 1759.39629906    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 426.14, Min = -319.60, |Max - Min| = 745.74
+  Maximum Shear Stress (τmax): 372.87
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 67:
+  Total Strain: [0.0067  0.00335 0.00201 0.      0.      0.     ]
+  Plastic Strain: [ 0.33111519 -0.0827788  -0.24833639  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1655.57594857  -413.89398714 -1241.68196143     0.
+     0.             0.        ]
+  Stress Tensor: [2543.09196173 2002.35200957 1786.0560287     0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 432.59, Min = -324.44, |Max - Min| = 757.04
+  Maximum Shear Stress (τmax): 378.52
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 68:
+  Total Strain: [0.0068  0.0034  0.00204 0.      0.      0.     ]
+  Plastic Strain: [ 0.33895984 -0.08473996 -0.25421988  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1694.7991756  -423.6997939 -1271.0993817     0.            0.
+     0.       ]
+  Stress Tensor: [2581.04565555 2032.23858611 1812.71575834    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 439.05, Min = -329.28, |Max - Min| = 768.33
+  Maximum Shear Stress (τmax): 384.16
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 69:
+  Total Strain: [0.0069  0.00345 0.00207 0.      0.      0.     ]
+  Plastic Strain: [ 0.34680448 -0.08670112 -0.26010336  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1734.02240263  -433.50560066 -1300.51680197     0.
+     0.             0.        ]
+  Stress Tensor: [2618.99934937 2062.12516266 1839.37548798    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 445.50, Min = -334.12, |Max - Min| = 779.62
+  Maximum Shear Stress (τmax): 389.81
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 70:
+  Total Strain: [0.007  0.0035 0.0021 0.     0.     0.    ]
+  Plastic Strain: [ 0.35464913 -0.08866228 -0.26598684  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1773.24562966  -443.31140741 -1329.93422224     0.
+     0.             0.        ]
+  Stress Tensor: [2656.95304318 2092.0117392  1866.03521761    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 451.95, Min = -338.96, |Max - Min| = 790.92
+  Maximum Shear Stress (τmax): 395.46
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 71:
+  Total Strain: [0.0071  0.00355 0.00213 0.      0.      0.     ]
+  Plastic Strain: [ 0.36249377 -0.09062344 -0.27187033  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1812.46885668  -453.11721417 -1359.35164251     0.
+     0.             0.        ]
+  Stress Tensor: [2694.906737   2121.89831575 1892.69494725    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 458.41, Min = -343.81, |Max - Min| = 802.21
+  Maximum Shear Stress (τmax): 401.11
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 72:
+  Total Strain: [0.0072  0.0036  0.00216 0.      0.      0.     ]
+  Plastic Strain: [ 0.37033842 -0.0925846  -0.27775381  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1851.69208371  -462.92302093 -1388.76906278     0.
+     0.             0.        ]
+  Stress Tensor: [2732.86043081 2151.7848923  1919.35467689    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 464.86, Min = -348.65, |Max - Min| = 813.51
+  Maximum Shear Stress (τmax): 406.75
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 73:
+  Total Strain: [0.0073  0.00365 0.00219 0.      0.      0.     ]
+  Plastic Strain: [ 0.37818306 -0.09454577 -0.2836373   0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1890.91531074  -472.72882768 -1418.18648305     0.
+     0.             0.        ]
+  Stress Tensor: [2770.81412463 2181.67146884 1946.01440653    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 471.31, Min = -353.49, |Max - Min| = 824.80
+  Maximum Shear Stress (τmax): 412.40
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 74:
+  Total Strain: [0.0074  0.0037  0.00222 0.      0.      0.     ]
+  Plastic Strain: [ 0.38602771 -0.09650693 -0.28952078  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1930.13853777  -482.53463444 -1447.60390332     0.
+     0.             0.        ]
+  Stress Tensor: [2808.76781845 2211.55804539 1972.67413617    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 477.77, Min = -358.33, |Max - Min| = 836.09
+  Maximum Shear Stress (τmax): 418.05
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 75:
+  Total Strain: [0.0075  0.00375 0.00225 0.      0.      0.     ]
+  Plastic Strain: [ 0.39387235 -0.09846809 -0.29540426  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 1969.36176479  -492.3404412  -1477.0213236      0.
+     0.             0.        ]
+  Stress Tensor: [2846.72151226 2241.44462193 1999.3338658     0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 484.22, Min = -363.17, |Max - Min| = 847.39
+  Maximum Shear Stress (τmax): 423.69
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 76:
+  Total Strain: [0.0076  0.0038  0.00228 0.      0.      0.     ]
+  Plastic Strain: [ 0.401717   -0.10042925 -0.30128775  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2008.58499182  -502.14624796 -1506.43874387     0.
+     0.             0.        ]
+  Stress Tensor: [2884.67520608 2271.33119848 2025.99359544    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 490.68, Min = -368.01, |Max - Min| = 858.68
+  Maximum Shear Stress (τmax): 429.34
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 77:
+  Total Strain: [0.0077  0.00385 0.00231 0.      0.      0.     ]
+  Plastic Strain: [ 0.40956164 -0.10239041 -0.30717123  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2047.80821885  -511.95205471 -1535.85616414     0.
+     0.             0.        ]
+  Stress Tensor: [2922.62889989 2301.21777503 2052.65332508    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 497.13, Min = -372.85, |Max - Min| = 869.98
+  Maximum Shear Stress (τmax): 434.99
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 78:
+  Total Strain: [0.0078  0.0039  0.00234 0.      0.      0.     ]
+  Plastic Strain: [ 0.41740629 -0.10435157 -0.31305472  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2087.03144588  -521.75786147 -1565.27358441     0.
+     0.             0.        ]
+  Stress Tensor: [2960.58259371 2331.10435157 2079.31305472    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 503.58, Min = -377.69, |Max - Min| = 881.27
+  Maximum Shear Stress (τmax): 440.63
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 79:
+  Total Strain: [0.0079  0.00395 0.00237 0.      0.      0.     ]
+  Plastic Strain: [ 0.42525093 -0.10631273 -0.3189382   0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2126.2546729   -531.56366823 -1594.69100468     0.
+     0.             0.        ]
+  Stress Tensor: [2998.53628753 2360.99092812 2105.97278435    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 510.04, Min = -382.53, |Max - Min| = 892.56
+  Maximum Shear Stress (τmax): 446.28
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 80:
+  Total Strain: [0.008  0.004  0.0024 0.     0.     0.    ]
+  Plastic Strain: [ 0.43309558 -0.10827389 -0.32482168  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2165.47789993  -541.36947498 -1624.10842495     0.
+     0.             0.        ]
+  Stress Tensor: [3036.48998134 2390.87750466 2132.63251399    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 516.49, Min = -387.37, |Max - Min| = 903.86
+  Maximum Shear Stress (τmax): 451.93
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 81:
+  Total Strain: [0.0081  0.00405 0.00243 0.      0.      0.     ]
+  Plastic Strain: [ 0.44094023 -0.11023506 -0.33070517  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2204.70112696  -551.17528174 -1653.52584522     0.
+     0.             0.        ]
+  Stress Tensor: [3074.44367516 2420.76408121 2159.29224363    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 522.94, Min = -392.21, |Max - Min| = 915.15
+  Maximum Shear Stress (τmax): 457.58
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 82:
+  Total Strain: [0.0082  0.0041  0.00246 0.      0.      0.     ]
+  Plastic Strain: [ 0.44878487 -0.11219622 -0.33658865  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2243.92435399  -560.9810885  -1682.94326549     0.
+     0.             0.        ]
+  Stress Tensor: [3112.39736898 2450.65065776 2185.95197327    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 529.40, Min = -397.05, |Max - Min| = 926.45
+  Maximum Shear Stress (τmax): 463.22
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 83:
+  Total Strain: [0.0083  0.00415 0.00249 0.      0.      0.     ]
+  Plastic Strain: [ 0.45662952 -0.11415738 -0.34247214  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2283.14758102  -570.78689525 -1712.36068576     0.
+     0.             0.        ]
+  Stress Tensor: [3150.35106279 2480.5372343  2212.61170291    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 535.85, Min = -401.89, |Max - Min| = 937.74
+  Maximum Shear Stress (τmax): 468.87
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 84:
+  Total Strain: [0.0084  0.0042  0.00252 0.      0.      0.     ]
+  Plastic Strain: [ 0.46447416 -0.11611854 -0.34835562  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2322.37080804  -580.59270201 -1741.77810603     0.
+     0.             0.        ]
+  Stress Tensor: [3188.30475661 2510.42381085 2239.27143254    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 542.30, Min = -406.73, |Max - Min| = 949.03
+  Maximum Shear Stress (τmax): 474.52
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 85:
+  Total Strain: [0.0085  0.00425 0.00255 0.      0.      0.     ]
+  Plastic Strain: [ 0.47231881 -0.1180797  -0.35423911  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2361.59403507  -590.39850877 -1771.1955263      0.
+     0.             0.        ]
+  Stress Tensor: [3226.25845042 2540.31038739 2265.93116218    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 548.76, Min = -411.57, |Max - Min| = 960.33
+  Maximum Shear Stress (τmax): 480.16
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 86:
+  Total Strain: [0.0086  0.0043  0.00258 0.      0.      0.     ]
+  Plastic Strain: [ 0.48016345 -0.12004086 -0.36012259  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2400.8172621   -600.20431552 -1800.61294657     0.
+     0.             0.        ]
+  Stress Tensor: [3264.21214424 2570.19696394 2292.59089182    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 555.21, Min = -416.41, |Max - Min| = 971.62
+  Maximum Shear Stress (τmax): 485.81
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 87:
+  Total Strain: [0.0087  0.00435 0.00261 0.      0.      0.     ]
+  Plastic Strain: [ 0.4880081  -0.12200202 -0.36600607  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2440.04048913  -610.01012228 -1830.03036684     0.
+     0.             0.        ]
+  Stress Tensor: [3302.16583806 2600.08354049 2319.25062146    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 561.67, Min = -421.25, |Max - Min| = 982.92
+  Maximum Shear Stress (τmax): 491.46
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 88:
+  Total Strain: [0.0088  0.0044  0.00264 0.      0.      0.     ]
+  Plastic Strain: [ 0.49585274 -0.12396319 -0.37188956  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2479.26371615  -619.81592904 -1859.44778712     0.
+     0.             0.        ]
+  Stress Tensor: [3340.11953187 2629.97011703 2345.9103511     0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 568.12, Min = -426.09, |Max - Min| = 994.21
+  Maximum Shear Stress (τmax): 497.10
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 89:
+  Total Strain: [0.0089  0.00445 0.00267 0.      0.      0.     ]
+  Plastic Strain: [ 0.50369739 -0.12592435 -0.37777304  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2518.48694318  -629.6217358  -1888.86520739     0.
+     0.             0.        ]
+  Stress Tensor: [3378.07322569 2659.85669358 2372.57008073    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 574.57, Min = -430.93, |Max - Min| = 1005.50
+  Maximum Shear Stress (τmax): 502.75
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 90:
+  Total Strain: [0.009  0.0045 0.0027 0.     0.     0.    ]
+  Plastic Strain: [ 0.51154203 -0.12788551 -0.38365653  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2557.71017021  -639.42754255 -1918.28262766     0.
+     0.             0.        ]
+  Stress Tensor: [3416.0269195  2689.74327012 2399.22981037    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 581.03, Min = -435.77, |Max - Min| = 1016.80
+  Maximum Shear Stress (τmax): 508.40
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 91:
+  Total Strain: [0.0091  0.00455 0.00273 0.      0.      0.     ]
+  Plastic Strain: [ 0.51938668 -0.12984667 -0.38954001  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2596.93339724  -649.23334931 -1947.70004793     0.
+     0.             0.        ]
+  Stress Tensor: [3453.98061332 2719.62984667 2425.88954001    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 587.48, Min = -440.61, |Max - Min| = 1028.09
+  Maximum Shear Stress (τmax): 514.05
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 92:
+  Total Strain: [0.0092  0.0046  0.00276 0.      0.      0.     ]
+  Plastic Strain: [ 0.52723132 -0.13180783 -0.39542349  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2636.15662426  -659.03915607 -1977.1174682      0.
+     0.             0.        ]
+  Stress Tensor: [3491.93430714 2749.51642322 2452.54926965    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 593.93, Min = -445.45, |Max - Min| = 1039.39
+  Maximum Shear Stress (τmax): 519.69
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 93:
+  Total Strain: [0.0093  0.00465 0.00279 0.      0.      0.     ]
+  Plastic Strain: [ 0.53507597 -0.13376899 -0.40130698  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2675.37985129  -668.84496282 -2006.53488847     0.
+     0.             0.        ]
+  Stress Tensor: [3529.88800095 2779.40299976 2479.20899929    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 600.39, Min = -450.29, |Max - Min| = 1050.68
+  Maximum Shear Stress (τmax): 525.34
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 94:
+  Total Strain: [0.0094  0.0047  0.00282 0.      0.      0.     ]
+  Plastic Strain: [ 0.54292062 -0.13573015 -0.40719046  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2714.60307832  -678.65076958 -2035.95230874     0.
+     0.             0.        ]
+  Stress Tensor: [3567.84169477 2809.28957631 2505.86872892    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 606.84, Min = -455.13, |Max - Min| = 1061.97
+  Maximum Shear Stress (τmax): 530.99
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 95:
+  Total Strain: [0.0095  0.00475 0.00285 0.      0.      0.     ]
+  Plastic Strain: [ 0.55076526 -0.13769132 -0.41307395  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2753.82630535  -688.45657634 -2065.36972901     0.
+     0.             0.        ]
+  Stress Tensor: [3605.79538859 2839.17615285 2532.52845856    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 613.30, Min = -459.97, |Max - Min| = 1073.27
+  Maximum Shear Stress (τmax): 536.63
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 96:
+  Total Strain: [0.0096  0.0048  0.00288 0.      0.      0.     ]
+  Plastic Strain: [ 0.55860991 -0.13965248 -0.41895743  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2793.04953237  -698.26238309 -2094.78714928     0.
+     0.             0.        ]
+  Stress Tensor: [3643.7490824 2869.0627294 2559.1881882    0.           0.
+    0.       ]
+  Tresca Principal Stresses: Max = 619.75, Min = -464.81, |Max - Min| = 1084.56
+  Maximum Shear Stress (τmax): 542.28
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 97:
+  Total Strain: [0.0097  0.00485 0.00291 0.      0.      0.     ]
+  Plastic Strain: [ 0.56645455 -0.14161364 -0.42484091  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2832.2727594   -708.06818985 -2124.20456955     0.
+     0.             0.        ]
+  Stress Tensor: [3681.70277622 2898.94930595 2585.84791784    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 626.20, Min = -469.65, |Max - Min| = 1095.85
+  Maximum Shear Stress (τmax): 547.93
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 98:
+  Total Strain: [0.0098  0.0049  0.00294 0.      0.      0.     ]
+  Plastic Strain: [ 0.5742992 -0.1435748 -0.4307244  0.         0.         0.       ]
+  Kinematic Backstress (Alpha): [ 2871.49598643  -717.87399661 -2153.62198982     0.
+     0.             0.        ]
+  Stress Tensor: [3719.65647003 2928.83588249 2612.50764747    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 632.66, Min = -474.49, |Max - Min| = 1107.15
+  Maximum Shear Stress (τmax): 553.57
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 99:
+  Total Strain: [0.0099  0.00495 0.00297 0.      0.      0.     ]
+  Plastic Strain: [ 0.58214384 -0.14553596 -0.43660788  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2910.71921346  -727.67980336 -2183.03941009     0.
+     0.             0.        ]
+  Stress Tensor: [3757.61016385 2958.72245904 2639.16737711    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 639.11, Min = -479.33, |Max - Min| = 1118.44
+  Maximum Shear Stress (τmax): 559.22
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
+Step 100:
+  Total Strain: [0.01  0.005 0.003 0.    0.    0.   ]
+  Plastic Strain: [ 0.58998849 -0.14749712 -0.44249137  0.          0.          0.        ]
+  Kinematic Backstress (Alpha): [ 2949.94244049  -737.48561012 -2212.45683036     0.
+     0.             0.        ]
+  Stress Tensor: [3795.56385767 2988.60903558 2665.82710675    0.            0.
+    0.        ]
+  Tresca Principal Stresses: Max = 645.56, Min = -484.17, |Max - Min| = 1129.74
+  Maximum Shear Stress (τmax): 564.87
+  Allowable Stress: 125.00
+  Failure Status: FAILURE ⚠️
+--------------------------------------------------------------------------------
